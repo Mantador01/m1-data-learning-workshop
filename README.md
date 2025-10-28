@@ -52,6 +52,5 @@ The goal of these labs is to explore **supervised learning techniques** using Py
 Clone the repository and open the notebooks in Jupyter:
 
 ```bash
-git clone https://github.com/yourusername/supervised-learning-lab.git
 cd supervised-learning-lab
 jupyter notebook
